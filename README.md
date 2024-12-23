@@ -1,4 +1,4 @@
-# Desafio-têcnico
+# Desafio Têcnico
 esse é um projeto em back - end criado em Python usando o banco de dados SQLite, e o sistema de FastAPI que é um framework que permite a criação de APIs de uma forma mais rapida e eficiente. Esse projeto permite ao usuarios gerenciar suas tarefas sejam elas quais forem, e também inicialmente criar uma conta onde podera armazenar suas tarefas deixando assim seu progresso salvo.
 
 # Funcionalidades
